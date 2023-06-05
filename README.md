@@ -57,7 +57,7 @@ Os usuários devem ser capazes de:
 ### Recursos úteis
 
 - [ScreenToGif](https://www.screentogif.com/) - Tornou possível a criação de um gif onde eu demonstro o projeto em execução.
-- [GitBash](https://git-scm.com/download/win) - Utilizado para várias coisas mas neste caso pra gerar a pagina web do projeto de forma local.
+- [GitBash](https://git-scm.com/download/win) - Utilizado para várias coisas mas neste caso para gerar a página web do projeto de forma local.
 
 ## Autor
 
