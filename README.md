@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# Teste técnico - Rota das oficinas
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esta é uma solução para o teste técnico - Rota das oficinas, ofertado numa proposta de estágio.
 
-## Available Scripts
+## Índice
 
-In the project directory, you can run:
+- [Visão geral](#visão-geral)
+  - [O desafio](#o-desafio)
+  - [Captura de tela](#captura-de-tela)
+  - [Links](#links)
+  - [Como Rodar o projeto no seu computador](#como-rodar-o-projeto-no-seu-computador)
+- [Meu processo](#meu-processo)
+  - [Construído com](#construído-com)   
+  - [Recursos úteis](#recursos-úteis)
+- [Autor](#autor)
+- [Agradecimentos](#agradecimentos)
 
-### `npm start`
+## Visão geral
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### O desafio
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Os usuários devem ser capazes de:
 
-### `npm test`
+- Visualizar todas as páginas das tarefas.
+- Interagir com as soluções de cada tarefa e obter os resultados.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### Captura de tela
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![](./src/images/captura-de-tela.gif)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Links
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- URL da solução: [Github](https://github.com/BraynnerM/teste-tecnico-rota-das-oficinas)
+- URL do site no Github Pages: [Teste técnico Rota das oficinas](https://braynnerm.github.io/teste-tecnico-rota-das-oficinas/)
 
-### `npm run eject`
+### Como Rodar o projeto no seu computador
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Baixe todos os arquivos do projeto;
+- Vá até a pasta local do projeto em seu computador, com o botão direito do mouse clique na pasta e dentre as opções escolha: "Git Bash Here" ou "Abrir no terminal";
+- Dentro do terminal digite o comando: "npm start";
+- Após isto o projeto deve rodar em seu navegador, se ocorrer algum problema por favor entrar em contato comigo.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Meu processo
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Construído com
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Marcação semântica HTML5 
+- CSS
+- Javascript
+- React
+- JSX
+- Github
 
-## Learn More
+### Recursos úteis
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [ScreenToGif](https://www.screentogif.com/) - Tornou possível a criação de um gif onde eu demonstro o projeto em execução.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Autor
 
-### Code Splitting
+- Linkedin - [BraynnerM](https://www.linkedin.com/in/braynner-marques-ribeiro-de-oliveira-88142b256/)
+- Github - [BraynnerM](https://github.com/BraynnerM)
+- Frontend Mentor - [BraynnerM](https://www.frontendmentor.io/profile/BraynnerM)
+- Twitter - [BraynnerMarques](https://twitter.com/BraynnerMarques)
+- E-mail - [braynnermarques@hotmail.com](mailto:braynnermarques@hotmail.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Agradecimentos
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Agradeço a Rota das oficinas pela oportunidade.
