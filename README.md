@@ -36,9 +36,11 @@ Os usuários devem ser capazes de:
 
 ### Como Rodar o projeto no seu computador
 
-- Baixe todos os arquivos do projeto;
-- Vá até a pasta local do projeto em seu computador, com o botão direito do mouse clique na pasta e dentre as opções escolha: "Git Bash Here" ou "Abrir no terminal";
-- Dentro do terminal digite o comando: "npm start";
+- Baixe os arquivos do projeto no site do github, clique no botão verde "Code" e então em "Download ZIP";
+- Instale o Git Bash, site para download abaixo em recursos úteis;
+- Extraia os arquivos do projeto em seu computador, com o botão direito do mouse clique na pasta principal do projeto e depois então na opção "Git Bash Here";
+- Dentro do terminal digite o comando: "npm install react-scripts";
+- Após a instalação concluida digite o comando: "npm start";
 - Após isto o projeto deve rodar em seu navegador, se ocorrer algum problema por favor entrar em contato comigo.
 
 ## Meu processo
@@ -55,6 +57,7 @@ Os usuários devem ser capazes de:
 ### Recursos úteis
 
 - [ScreenToGif](https://www.screentogif.com/) - Tornou possível a criação de um gif onde eu demonstro o projeto em execução.
+- [GitBash](https://git-scm.com/download/win) - Utilizado para várias coisas mas neste caso pra gerar a pagina web do projeto de forma local.
 
 ## Autor
 
