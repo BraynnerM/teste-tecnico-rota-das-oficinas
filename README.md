@@ -37,6 +37,7 @@ Os usuários devem ser capazes de:
 ### Como Rodar o projeto no seu computador
 
 - Baixe os arquivos do projeto no site do github, clique no botão verde "Code" e então em "Download ZIP";
+- Instale o node.js, site para download abaixo em recursos úteis;
 - Instale o Git Bash, site para download abaixo em recursos úteis;
 - Extraia os arquivos do projeto em seu computador, com o botão direito do mouse clique na pasta principal do projeto e depois então na opção "Git Bash Here";
 - Dentro do terminal digite o comando: "npm install react-scripts";
@@ -57,6 +58,7 @@ Os usuários devem ser capazes de:
 ### Recursos úteis
 
 - [ScreenToGif](https://www.screentogif.com/) - Tornou possível a criação de um gif onde eu demonstro o projeto em execução.
+- [Node.js](https://nodejs.org/en) - Utilizado para várias coisas mas neste caso para instalar o npm.
 - [GitBash](https://git-scm.com/download/win) - Utilizado para várias coisas mas neste caso para gerar a página web do projeto de forma local.
 
 ## Autor
